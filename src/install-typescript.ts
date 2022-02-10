@@ -1,2 +1,2 @@
-let message: string = 'Hello ts-node!';
+let message: String = 'Hello ts-node!';
 console.log({message}); 
